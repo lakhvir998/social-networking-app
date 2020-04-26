@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "15133213858",
+    "firebase_url": "https://fir-atdab.firebaseio.com",
+    "project_id": "firebase-atdab",
+    "storage_bucket": "firebase-atdab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15133213858:android:f9e7799712a69967",
+        "android_client_info": {
+          "package_name": "com.atdabnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15133213858-p1vpgolo937243rtl33fuc26p3o88s7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atdabnew",
+            "certificate_hash": "4ca67fe13eff21b44aeb92c383d01565c3654bec"
+          }
+        },
+        {
+          "client_id": "15133213858-fgf6dfcslck9vqepdsu2t92lbru34t3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atdabnew",
+            "certificate_hash": "69157f029983f3623e20f4956344060c41c1724e"
+          }
+        },
+        {
+          "client_id": "15133213858-hf37kjp4qpfgaumvv1i2nuol15a179tm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "15133213858-tjfm859dfjhlraqbuh2iok8otugbdp4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJbQ04-dHmg4YTKuyKr5-i5pExoL0E_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15133213858-hf37kjp4qpfgaumvv1i2nuol15a179tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
